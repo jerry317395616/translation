@@ -14813,3 +14813,133 @@ Grouped by ,按分组,
 
 
 Item,物料,
+Consider Minimum Order Qty,考虑最小订购数量,
+BIN Qty,库存数量,
+Qty In Stock,库存数量,
+Cost Configuration,成本配置,
+Do Not Explode,不拆分,
+Is Stock Item,是库存项目,
+FG based Operating Cost,基于成品的运营成本,
+Scrap & Process Loss,废料和过程损失,
+Process Loss,过程损失,
+% Process Loss,% 过程损失,
+Is Corrective Operation,是纠正操作,
+Sub Operations,子操作,
+Time in mins,时间（分钟）,
+Create Job Card based on Batch Size,根据批量大小创建作业卡,
+Fixed Time,固定时间,
+Operation time does not depend on quantity to produce,操作时间不取决于生产数量,
+Set Operating Cost Based On BOM Quantity,基于BOM数量设置运营成本,
+BOM,物料清单,
+All Work Orders,所有工单,
+Not Started,未开始,
+Overdue,逾期,
+Pending,待处理,
+Completed,已完成,
+View BOM Update Log,查看物料清单更新日志,
+Allow Continuous Material Consumption,允许连续材料消耗,
+Allow material consumptions without immediately manufacturing finished goods against a Work Order,允许在工单中材料耗用而无需立即生产成品,
+Add Corrective Operation Cost in Finished Good Valuation,在成品估值中添加纠正操作成本,
+Allow Excess Material Transfer,允许超额材料转移,
+Allow transferring raw materials even after the Required Quantity is fulfilled,即使满足所需数量，也允许转移原材料,
+Make Serial No / Batch from Work Order,从工单生成序列号/批次,
+System will automatically create the serial numbers / batch for the Finished Good on submission of work order,系统将在提交工单时自动创建成品的序列号/批次,
+Set Operating Cost / Scrape Items From Sub-assemblies,从子装配件中设置运营成本/废料项目,
+"In the case of 'Use Multi-Level BOM' in a work order, if the user wishes to add sub-assembly costs to Finished Goods items without using a job card as well the scrap items, then this option needs to be enable.",在工单中使用“使用多层BOM”的情况下，如果用户希望将子装配件的成本添加到成品项目中，而无需使用作业卡以及废料项目，则需要启用此选项,
+Current Level,当前级别,
+BOM Update Log,BOM更新日志,
+Learn Project Management,学习项目管理,
+Timesheet Billing Summary,工时表计费摘要,
+Delayed Tasks Summary,延迟任务摘要,
+Is Template,是模板,
+Include Timesheets in Draft Status,包括处于草稿状态的时间表,
+Is Custom,是自定义,
+Show Users,显示用户,
+Navigation Settings,导航设置,
+Search Bar,搜索栏,
+Sidebar,侧边栏,
+Bulk Actions,批量操作,
+View Switcher,视图切换器,
+Module Profile Name,模块配置文件名称,
+"Header, Robots",标题，机器人,
+Redirects,重定向,
+"Link that is the website home page. Standard Links (home, login, products, blog, about, contact)",链接到网站首页的链接。标准链接（首页、登录、产品、博客、关于、联系）,
+Login Page,登录页面,
+App Logo,App图标,
+Disable signups,禁用注册,
+New users will have to be manually registered by system managers.,新用户将由系统管理员手动注册,
+Show footer on login,在登录页显示页脚,
+Show Language Picker,显示语言选择器,
+Footer Details,页脚详细信息,
+Hide footer signup,隐藏页脚注册,
+Footer "Powered By",页脚 "由...提供支持",
+Custom Footer,自定义页脚,
+Enable in-app website tracking,启用应用内网站跟踪,
+Enable Google indexing,启用Google索引化,
+"To use Google Indexing, enable ",要使用Google索引，启用它,
+Google Analytics anonymise IP,Google Analytics匿名化IP地址,
+Account Deletion Settings,帐户删除设置,
+Automatically delete account within (hours),在（小时）内自动删除帐户,
+Show account deletion link in My Account page,在“我的账户”页面显示帐户删除链接,
+Redirect HTTP Status,重定向HTTP状态,
+"Link for About Us Page is "/about".",关于我们页面的链接是"/about",
+Page Title,页面标题,
+Team Members Subtitle,团队成员副标题,
+Skype,Skype（即时通讯软件）,
+Enable Email Notification,启用电子邮件通知,
+Enable email notification for any comment or likes received on your Blog Post.,启用电子邮件通知，用于收到博客文章上的任何评论或点赞,
+Disable Likes,禁用点赞,
+Preview Image,预览图片,
+Scripting,脚本化,
+Module (for export),模块（用于导出）,
+Section ID,部分标识符 ID,
+"IDs must contain only alphanumeric characters, not contain spaces, and should be unique.",ID必须仅包含字母数字字符，不包含空格，并且应该是唯一的,
+Add Space at Top,在顶部添加空间,
+Add Space at Bottom,在底部添加空间,
+Add Border at Top,在顶部添加边框,
+Add Border at Bottom,在底部添加边框,
+Add Background Image,添加背景图片,
+Set context before rendering a template. Example:,在渲染模板之前设置上下文。例如：,
+Publishing Dates,发布日期,
+Custom Label,自定义标签,
+Unpublish,取消发布,
+Allow Multiple Responses,允许多次响应,
+Allow Editing After Submit,允许提交后编辑,
+Receive anonymous response,接收匿名回复,
+"Multiple webforms can be created for a single doctype. Add filters specific to this webform to display correct record after submission.",可以为单个文档类型创建多个网络表单。添加特定于此网络表单的筛选器，以在提交后显示正确的记录,
+For Example:,例如：,
+"If you create a separate webform every year to capture feedback from employees add a   field named year in doctype and add a filter ",如果您每年都创建一个单独的网络表单来收集员工的反馈，可以在文档类型中添加一个名为“年份”的字段，并添加一个筛选器,
+Show List,显示列表,
+Submit Button Label,提交按钮标签,
+After Submission,提交后,
+Success Title,成功标题,
+Go to this URL after completing the form,在完成表单后转到此URL,
+Meta,元信息,
+Scripting / Style,脚本 / 样式,
+Helpful,有帮助,
+Not Helpful,没有帮助,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
