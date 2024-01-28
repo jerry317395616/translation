@@ -458,7 +458,7 @@ Taxes & Charges,税费,
 Sanctioned Amount,批准金额,
 Taxes & Charges,税费及费用,
 Unclaimed Amount,未申领金额,
-Currency ,货币,
+Currency,货币,
 Purpose & Amount,目的和金额,
 Repay Unclaimed Amount from Salary,从工资中偿还未申领的金额,
 Benefits,福利,
@@ -14620,6 +14620,7 @@ Manage Sales Tax Templates,管理销售税模板,
 Take a quick walk-through of Accounts Settings,快速浏览一下账户设置,
 View Cost Center Tree,查看成本中心层级结构,
 Let’s create your first Purchase Invoice,让我们创建您的第一张采购发票,
+Let’s create your first warehouse,创建仓库,
 Move Up,上移,
 Move Down,下移,
 Edit Onboarding,编辑流程,
@@ -29522,7 +29523,7 @@ Update Stock Opening Balance,更新初始库存
 Check Stock Projected Qty,查看预期可用库存
 let's create a opening stock entry,创建期初库存
 Create a Material Transfer Entry,创建物料调拨
-let's create your first warehouse,创建仓库
+"Let's create your first warehouse",创建仓库
 Take a walk through Stock Settings,检查库存设置
 Is Corrective Operation,是返工工序
 Corrective Operation,返工工序
@@ -31153,6 +31154,6 @@ Fixed Asset Turnover Ratio,固定资产周转率
 Debtor Turnover Ratio,应收账款周转率
 Creditor Turnover Ratio,应付账款周转率
 Inventory Turnover Ratio,存货周转率
-Web Template,网页模板,
-Stock Reconciliation,库存调账,
+Web Template,网页模板
+Stock Reconciliation,库存调账
 Valuation Field Type,计价类型
