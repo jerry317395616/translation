@@ -31162,4 +31162,11 @@ Print Format Builder (New),打印格式生成器（新）
 New User ,新建用户,
 System User,系统用户
 {0} records are not automatically deleted.,{0}记录不会自动删除。
-You can change the retention policy from {0}.
+You can change the retention policy from {0}.,您可以从{0}改变策略
+An Item Group is a way to classify items based on types.,物料组是一种根据类型对物料进行分类的方法。
+Aggregate a group of Items into another Item. This is useful if you are maintaining the stock of the packed items and not the bundled item,将一组项目聚合到另一个项目中。如果您要维护包装商品的库存，而不是捆绑商品的库存，这将非常有用
+Default settings for your stock-related transactions,库存相关交易的默认设置
+Use Serial / Batch Fields,使用序列号/批处理字段
+Stock Frozen Up To,库存冻结至
+Is Rejected Warehouse,是不合格仓库
+"If yes, then this warehouse will be used to store rejected materials",如果是，那么该仓库将用于存储不合格的材料
