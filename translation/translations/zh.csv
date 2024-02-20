@@ -31157,3 +31157,9 @@ Inventory Turnover Ratio,存货周转率
 Web Template,网页模板
 Stock Reconciliation,库存调账
 Valuation Field Type,计价类型
+Alerts and Notifications,提醒和通知,
+Print Format Builder (New),打印格式生成器（新）
+New User ,新建用户,
+System User,系统用户
+{0} records are not automatically deleted.,{0}记录不会自动删除。
+You can change the retention policy from {0}.
