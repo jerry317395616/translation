@@ -1566,7 +1566,7 @@ Brand HTML,品牌HTML,
 Brand Image,品牌形象,
 Breadcrumbs,面包屑导航,
 Browser not supported,浏览器不支持,
-Brute Force Security,蛮力安全,
+Brute Force Security,暴力破解安全,
 Build Report,生成报告,
 Bulk Delete,批量删除,
 Bulk Edit {0},批量编辑{0},
@@ -5102,12 +5102,12 @@ Navbar,导航栏,
 Source Message,源消息,
 Translated Message,翻译的讯息,
 Using this console may allow attackers to impersonate you and steal your information. Do not enter or paste code that you do not understand.,使用此控制台可能使攻击者冒充您并窃取您的信息。不要输入或粘贴您不理解的代码。,
-{0} m,{0}米,
+{0} m,{0}秒,
 {0} h,{0}小时,
-{0} d,{0} d,
-{0} w,{0} w,
-{0} M,{0} M,
-{0} y,{0} y,
+{0} d,{0} 日,
+{0} w,{0} 周,
+{0} M,{0} 月,
+{0} y,{0} 年,
 yesterday,昨天,
 {0} years ago,{0}年前,
 New Chart,新图表,
@@ -8958,7 +8958,6 @@ on,于,
 {0} does not have a Healthcare Practitioner Schedule. Add it in Healthcare Practitioner master,{0}没有医疗从业者时间表。将其添加到医疗从业者主表中,
 {0} entered twice in Item Tax,{0}输入了两次税项,
 {0} for {1},{0} {1},
-{0} has been submitted successfully,{0}已成功提交,
 {0} has fee validity till {1},{0}有效期至{1},
 {0} hours,{0}小时,
 {0} in row {1},{1}行中的{0},
@@ -9395,7 +9394,7 @@ Performance,性能,
 Period based On,期间基于,
 Perpetual inventory required for the company {0} to view this report.,公司{0}查看此报告所需的永久清单。,
 Phone,电话,
-Pick List,选择列表,
+Pick List,拣货清单,
 Plaid authentication error,格子认证错误,
 Plaid public token error,格子公共令牌错误,
 Plaid transactions sync error,格子交易同步错误,
@@ -15742,7 +15741,6 @@ Liked by {0},{0}喜欢
 {0} changed {1} to {2},{0}已将{1}更改为{2}
 {0} saved successfully,{0}已成功保存
 {0} created successfully,{0}已成功创建
-{0} has been submitted successfully,{0}已成功提交
 {0} reverted {1},{0}已撤销{1}
 {0} updated,{0}已更新
 {0} already has a Parent Procedure {1}.,{0}已有父程序{1}。
@@ -20103,7 +20101,6 @@ Billed Amt,已开票金额
 Score Earned,已得分数
 Leaves Allocated Successfully for {0},已成功为{0}分配假期
 Structures have been assigned successfully,已成功分配薪资结构
-{0} has been submitted successfully,已成功提交{0}
 Packed Item,套件明细
 Packed Items,套件明细
 In print,已打印
@@ -26299,7 +26296,7 @@ Asset Maintenance Log,资产保养日志
 Asset Settings,资产设置
 Balance Sheet,资产负债表
 Funded Amount,资助金额
-Capitalization doesn't help very much.,资本化不适用。
+Capitalization doesn't help very much.,大写没有多大帮助。
 Capital Equipments,资本设备
 capital goods,资本货物
 Eligibility and Details,资格和细节
@@ -28963,12 +28960,6 @@ Let's Set Up Your CRM.,开始设置客户关系模块
 Let's Set Up the Selling Module.,开始设置销售模块
 Let's Set Up the Buying Module.,开始设置采购模块
 Let's Set Up the Manufacturing Module.,开始设置生产模块
-Sales Invoice has been submitted successfully,已成功提交销售发票
-Delivery Note has been submitted successfully,已成功提交销售出库
-Sales Order has been submitted successfully,已成功提交销售订单
-Quotation has been submitted successfully,已成功提交报价
-Purchase Invoice has been submitted successfully,已成功提交采购发票
-Purchase Receipt has been submitted successfully,已成功提采购入库
 First Success Message,首次成功消息
 Dunning Letter Text,催款信文本
 Data Import Legacy,数据导入(旧版)
@@ -29126,8 +29117,6 @@ Shortcuts,快捷方式
 Apply Putaway Rule,应用上架规则
 Received Qty in Stock UOM,收到数量(库存单位)
 Accepted Qty in Stock UOM,接受数量(库存单位)
-Purchase Receipt has been submitted successfully,采购入库已成功提交
-Purchase Invoice has been submitted successfully,采购发票已成功提交
 Add Serial No,添加序列号
 Selected Serial No,已选择序列号
 Minimum Value,最小值
@@ -31170,3 +31159,15 @@ Use Serial / Batch Fields,使用序列号/批处理字段
 Stock Frozen Up To,库存冻结至
 Is Rejected Warehouse,是不合格仓库
 "If yes, then this warehouse will be used to store rejected materials",如果是，那么该仓库将用于存储不合格的材料
+No Roles Specified,未指定角色
+Add Roles,添加角色
+Role Profiles,角色配置文件
+Login Methods,登录方式
+Updates,更新
+Link Field Results Limit,链接字段结果限制
+System will not check over billing since amount for Item {0} in {1} is zero,系统不会检查计费，因为{1}中项目{0}的金额为零
+Delivery Note,交货单
+{0} has been submitted successfully,{0}已成功提交
+'Congratulations on completing the module setup. If you want to learn more you can refer to the documentation <a target="_blank" href="{0}">here</a>.',恭喜您完成了模块设置。如果您想了解更多信息，可以参考文档
+Consider Rejected Warehouses,考虑拒收仓库
+Enable it if users want to consider rejected materials to dispatch.,如果用户想要考虑发送被拒收的物料，请启用它。
