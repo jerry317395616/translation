@@ -31178,4 +31178,5 @@ Total Patients Admitted,入院患者总数
 My Workspaces,我的工作空间
 Generate Demo Data for Exploration,生成用于探索的演示数据
 If checked, we will create demo data for you to explore the system. This demo data can be erased later.,如果选中，我们将创建演示数据供您探索系统。此演示数据可以在以后删除。
+Segregate Serial / Batch Bundle,隔离序列/批次
 
